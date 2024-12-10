@@ -13,11 +13,11 @@ This section should introduce your audience to the technical artifacts that foll
 ## Narratives 
 
 ### Software Design and Engineering
-
+The changes in Software Design and Engineering focused on improving modularity, scalability, and maintainability. This involved restructuring the codebase into smaller, reusable components and implementing design patterns to streamline development. The updated design emphasized clear interfaces, enabling easier integration and future enhancements.
 
 ### Algorithms and Data Structure
-
+The adjustments in Algorithms and Data Structures were aimed at optimizing performance and efficiency. Key changes included replacing inefficient algorithms with more time- and space-efficient ones, as well as utilizing advanced data structures to reduce computational overhead. These changes enhanced the overall responsiveness and robustness of the system.
 
 ### Databases
-
+The database changes centered on improving data retrieval and storage efficiency. This included normalizing the schema to reduce redundancy, indexing key fields to accelerate queries, and implementing optimized queries to handle larger datasets. These updates resulted in faster performance and greater reliability in data-intensive operations.
 
