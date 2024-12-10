@@ -2,13 +2,8 @@
 
 
 ## Self-Assessment
-
-  Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
-Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
-Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
-Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
-This summary will help demonstrate the full range of your computer science talents and abilities.
-This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
+Completing my coursework and developing my ePortfolio throughout the Computer Science program has been an invaluable process for highlighting my strengths and growth as a developer. The ePortfolio showcases a curated selection of projects that demonstrate my technical proficiency, analytical thinking, and problem-solving abilities. By applying core computer science principles across diverse assignments and challenges, I have built a solid foundation for a successful career while creating a portfolio that effectively communicates my expertise and adaptability to potential employers.
+Throughout my time at SNHU, I have developed a diverse set of technical and professional skills. Several projects required me to collaborate effectively with stakeholders and users, translating their needs and requirements into detailed design documents and functional code. These experiences refined my ability to communicate clearly and adapt solutions to meet real-world challenges. I also deepened my understanding of security in software development by writing unit tests to identify and address potential vulnerabilities, ensuring the integrity and reliability of my applications. My portfolio further demonstrates my expertise in essential areas such as data structures and algorithms, software engineering principles, and database design, showcasing my ability to create scalable, efficient, and user-focused solutions. Each project reflects my commitment to learning and applying these concepts in innovative ways.
 
 ## Narratives 
 
